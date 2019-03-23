@@ -1,0 +1,19 @@
+{
+  "name": "cwp-22",
+  "version": "1.0.0",
+  "description": "laba 22",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolliHam/cwp-22.git"
+  },
+  "author": "Polina Shenets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolliHam/cwp-22/issues"
+  },
+  "homepage": "https://github.com/PolliHam/cwp-22#readme"
+}
