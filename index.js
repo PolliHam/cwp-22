@@ -1,4 +1,4 @@
-console.log("Hi! This is npm package cwp-22 version 1.0.0");
+console.log("Hi! This is npm package cwp-22 version 2.1.0");
 
 const PRIOPETETS = {
     '(': 0,

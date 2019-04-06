@@ -1,6 +1,6 @@
 {
-  "name": "cwp-22",
-  "version": "1.0.0",
+  "name": "@polli_ham/cwp-22",
+  "version": "2.1.1",
   "description": "laba 22",
   "main": "index.js",
   "scripts": {
